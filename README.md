@@ -1,1 +1,1 @@
-# todo-Manager
+# ORM-JPA Project
